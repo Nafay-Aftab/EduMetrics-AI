@@ -74,6 +74,7 @@ streamlit run app.py
 ```
 
 The application will launch locally at `http://localhost:8501`
+Streamlit Dem0: `https://edumetrics-ai-whpqf3vcntagq4fp4qx3ul.streamlit.app/`
 
 ---
 
