@@ -13,7 +13,8 @@ EduMetrics AI is an end-to-end Machine Learning pipeline and interactive SaaS da
 
 Built to industrial standards, the system acts as an **Early Warning System** for educational institutions, identifying at-risk students with extreme precision (Mean Absolute Error of 0.37 points) and providing dynamic, actionable intervention strategies.
 
-> *(Insert a screenshot of your Streamlit dashboard here)*
+> <img width="1919" height="873" alt="image" src="https://github.com/user-attachments/assets/561704a1-218a-45f5-998f-6408b897e17e" />
+
 
 ---
 
