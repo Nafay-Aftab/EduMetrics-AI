@@ -59,7 +59,7 @@ The deployed model is wrapped in a premium, stakeholder-ready Streamlit interfac
 
 **1. Clone the repository:**
 ```bash
-git clone https://github.com/your-username/edumetrics-ai.git
+git clone https://github.com/Nafay-Aftab/edumetrics-ai.git
 cd edumetrics-ai
 ```
 
