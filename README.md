@@ -59,8 +59,8 @@ The deployed model is wrapped in a premium, stakeholder-ready Streamlit interfac
 
 **1. Clone the repository:**
 ```bash
-git clone https://github.com/Nafay-Aftab/edumetrics-ai.git
-cd edumetrics-ai
+git clone https://github.com/Nafay-Aftab/EduMetrics-AI.git
+cd EduMetrics-AI
 ```
 
 **2. Install dependencies:**
